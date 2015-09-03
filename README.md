@@ -10,3 +10,7 @@ cd pvpgn-1.8.5/src
 ./configure --prefix=/usr/local/pvpgn
 
 make && make install
+
+-- execute
+
+/usr/local/pvpgn/sbin/bnetd
